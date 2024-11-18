@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "8421",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-18T12:14:17.513Z",
+      "notes": "Hi\n",
+      "position": {
+        "lat": "12.974391903898796",
+        "lng": "77.58485438862462"
+      }
+    },
+    {
+      "id": "b893",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-10-18T12:16:25.149Z",
+      "notes": "",
+      "position": {
+        "lat": "12.918053988783837",
+        "lng": "77.60413388816498"
+      }
+    }
+  ]
+}
